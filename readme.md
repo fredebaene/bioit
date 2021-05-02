@@ -33,7 +33,7 @@ macromolecules composed of a sequence of identical or similar subunits. If each
 of these subunits can be represented by a symbol (or charachter), then the
 polymer can be represented by a string.
 
-# DNA Class
+## DNA Class
 
 Instance variables:
 
