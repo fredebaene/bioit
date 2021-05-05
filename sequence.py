@@ -28,6 +28,16 @@ class DNA(Sequence):
 
     monomers = 'ACGT'
 
+    def transcribe_as_coding_strand(self):
+        """Returns the mRNA sequence if this DNA sequence is the coding strand."""
+        mrna = ''
+        for i in self.sequence:
+            if i == 'T':
+                mrna += 'U'
+            else:
+                mrna += i
+        return mrna
+
 # RNA CLASS
 # ------------------------------------------------------------------------------
 class RNA(Sequence):
