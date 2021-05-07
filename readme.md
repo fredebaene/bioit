@@ -68,10 +68,10 @@ The above DNA molecule results in the following mRNA molecule:
 
 ## Sequence Class
 
-The Sequence class is the base class used to represent polymers. Polymers are
-macromolecules composed of a sequence of identical or similar subunits. If each
-of these subunits can be represented by a symbol (or character), then the
-polymer can be represented by a string.
+The Sequence class is the base class used to represent linear polymers. Linear
+polymers are macromolecules composed of a sequence of identical or similar
+subunits. If each of these subunits can be represented by a symbol (or
+character), then the linear polymer can be represented by a string.
 
 Instance variables:
 
