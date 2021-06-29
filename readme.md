@@ -58,8 +58,8 @@ strand in the 5-to-3 direction is equal to the nucleotide sequence of the
 coding strand in the 5-to-3 direction, except that the mRNA molecule contains
 uracil (U) instead of thymine (T).
 
-5 - A C G T T T C T C G A C A C G - 3   -> CODING STRAND (SENSE)
-    | | | | | | | | | | | | | | |
+5 - A C G T T T C T C G A C A C G - 3   -> CODING STRAND (SENSE)\n
+    | | | | | | | | | | | | | | |\n
 3 - T G C A A A G A G C T G T G C - 5   -> TEMPLATE STRAND (ANTISENSE)
 
 The above DNA molecule results in the following mRNA molecule:
