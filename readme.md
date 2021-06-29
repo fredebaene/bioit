@@ -12,7 +12,7 @@ Biological macromolecules can be divided into four classes:
 - saccharides.
 
 Nucleic acids are polymers, and the monomers making up a nucleic acid are
-called nucleotides. Each of these nucleotides consists out of a phosphate
+called nucleotides. Each of these nucleotides consists of a phosphate
 group, a sugar molecule, and a nucleobase. Based on their nucleotides and the
 sugar molecule, nucleic acids can be divided into different classes of nucleic
 acids, ie. deoxyribonucleic acid (DNA) and ribonucleic acid (RNA):
